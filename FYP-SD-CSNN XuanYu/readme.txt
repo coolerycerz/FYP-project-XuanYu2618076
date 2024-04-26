@@ -8,8 +8,7 @@ and then refer to the folder "ei-FYPproject-1-openmv-v1", connect OpenMv to your
 into the OpenMv, and run "ei_image_classification.py" on the OpenMv IDE on your PC. You can use the samples stored in "KAGGLEdatabase" to verify the results.
 
 3. For SURF or SIFT key point detection method with proposed RGB filter, you can refer to folder "SD-CSNNwithRGB" and run "SURFandSIFTwithRGB.py" 
-directly. In folder "SD-CSNNwithRGB/demo" you can find some examples of the processed images. If you want to explore SD-CSNN, set up the paddle environment first, you can refer to "https://github.com/PaddlePaddle/PaddleDetection?tab=readme-ov-file"
-to set up. The SD-CSNN model can be loaded by the file located "SD-CSNNwithRGB/best_model/45test_precision0.9481851357.pl".
+directly. In folder "SD-CSNNwithRGB/demo" you can find some examples of the processed images. If you want to explore SD-CSNN, set up the paddle environment first, you can refer to "https://github.com/PaddlePaddle/PaddleDetection?tab=readme-ov-file" to set up. The SD-CSNN model can be loaded by the file located "SD-CSNNwithRGB/best_model/45test_precision0.9481851357.pl".
 
 4. To show the original design and drawing of the figures, every figure shown in the FYP report are collected in the folder named 
 "figures of FYP report".
